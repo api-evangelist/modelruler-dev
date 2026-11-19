@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Model Ruler provides AI cost calculators for large language models, retrieval‑augmented generation, evaluation, and agent workflows. It offers deterministic calculators for token usage, pricing, and infrastructure decisions, helping developers estimate costs before deployment without requiring API keys or accounts.
+Model Ruler provides deterministic, source‑dated calculators for AI costs across LLM, RAG, evaluation, observability, self‑hosting, automation, and agent workflows. It offers transparent pricing without API keys, accounts, or data retention, helping users plan and compare provider expenses reliably.
 
-**Areas:** AI · Cost-Calculator · LLM · RAG · Agent
+**Areas:** AI · Cost Calculator · LLM · RAG · Automation
 
 ## Model Ruler on APIs.io
 
@@ -103,24 +103,23 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://modelruler.dev/)
-- [API reference](https://modelruler.dev/openapi-modelruler.json)
 - [Terms of service](https://modelruler.dev/terms/)
 - [Privacy policy](https://modelruler.dev/privacy/)
 
 ## API Evangelist rating
 
-**Kin Score 28.2** — thin · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 28.0** — thin · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
-| Discoverability | 62.5 |
+| Discoverability | 61.7 |
 | Contract quality | 39.2 |
 | Contract governance | 65.5 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 7.1 |
+| Developer ergonomics | 6.4 |
 | Access clarity | 17.0 |
 
-**Agent readiness 29.8** — agent-ready
+**Agent readiness 33.0** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -134,7 +133,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | verified |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | — |
+| Agent Skills | unknown |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
